@@ -1,0 +1,205 @@
+@font-face
+{
+	font-family: "Charis";
+	src: url(fonts/CharisSILR.ttf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face
+{
+		font-family: "Charis";
+		src: url(fonts/CharisSILB.ttf);
+		font-style: normal;
+		font-weight: bold;
+}
+@font-face
+{
+		font-family: "Charis";
+		src: url(fonts/CharisSILI.ttf);
+		font-style: italic;
+		font-weight: normal;
+}
+@font-face
+{
+	font-family: "Charis";
+	src: url(fonts/CharisSILBI.ttf);
+	font-style: italic;
+	font-weight: bold;
+}
+body
+{
+     font-family: "Times New Roman",serif;
+}
+.author
+{
+     font-family: "Times New Roman",serif;
+     font-size: 120%;
+     text-align: center;
+     margin-top: 2em;
+     margin-bottom: 1em;
+}
+.publisher
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 1em;
+     margin-bottom: 1em;
+     text-align: center;
+}
+.image1
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 1em;
+     margin-bottom: 1em;
+}
+.h1
+{
+     font-family: "Times New Roman",serif;
+     font-size: xx-large;
+     margin-top: 1em;
+     margin-bottom: 1em;
+     text-align: center;
+}
+.subtitle
+{
+     font-family: "Times New Roman",serif;
+     font-size: 120%;
+     margin-top: 1em;
+     margin-bottom: 1em;
+     text-align: center;
+}
+.h2
+{
+     font-family: "Times New Roman",serif;
+     font-size: x-large;
+     margin-top: 1em;
+     margin-bottom: 1em;
+     text-align: center;
+}
+.h3
+{
+     font-family: "Times New Roman",serif;
+     font-size: large;
+     margin-top: 1em;
+     margin-bottom: 0.5em;
+}
+.indentt
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 0.1em;
+     margin-bottom: 0.3em;
+     margin-left: 2em;
+     text-indent: -1.5em;
+}
+.noindent
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 0.5em;
+     margin-bottom: 0.5em;
+     text-indent: 0.01em;
+}
+.h4
+{
+     font-family: "Times New Roman",serif;
+     font-size: large;
+     margin-top: 1em;
+     margin-bottom: 1em;
+}
+.indentbullet
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 0.8em;
+     margin-bottom: 0.3em;
+     margin-left: 0.8em;
+     text-indent: -0.8em;
+}
+.h5
+{
+     font-family: "Times New Roman",serif;
+     font-size: medium;
+     margin-top: 1em;
+     margin-bottom: 1em;
+}
+.copyright
+{
+    font-family: "Times New Roman",serif;
+    margin-top: .5em;
+    margin-bottom: .4em;
+}
+.toc-front
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 0.5em;
+     margin-bottom: 0.5em;
+}
+.toc-cha
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 1em;
+     margin-bottom: 0.5em;
+}
+.toc-cha > a
+{
+     color: #551A8B
+}
+.toc-cha1
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 1.5em;
+     margin-bottom: 0.8em;
+}
+.toc-cha1 > a
+{
+     color: #551A8B
+}
+.toc-cha2
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 0.5em;
+     margin-bottom: 0.5em;
+}
+.toc-cha2 > a
+{
+     color: #551A8B
+}
+svg
+{
+        width: 100%;
+        height: 98%;
+}
+.indent
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 0.2em;
+     margin-bottom: 0.3em;
+     text-indent: 1.2em;
+}
+.indent2
+{
+     font-family: "Times New Roman",serif;
+     margin-left: 3.5em;
+     text-indent: -0.8em;
+     margin-top: 0.2em;
+     margin-bottom: 0.3em;
+}
+.indent3
+{
+     font-family: "Times New Roman",serif;
+     margin-left: 5em;
+     text-indent: -0.8em;
+     margin-top: 0.2em;
+     margin-bottom: 0.3em;
+}
+.halftitle
+{
+    font-size: 120%;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    text-align: center;
+}
+.noindent2
+{
+     font-family: "Times New Roman",serif;
+     margin-top: 0.6em;
+     margin-bottom: 0.3em;
+     margin-left: 0.8em;
+}
