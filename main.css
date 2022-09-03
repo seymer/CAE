@@ -1,9 +1,11 @@
 body {
     font-family: STFangSong, Helvetica, Arial, Vernada, Tahoma, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑",  SimSun, "宋体", Heiti, "黑体", sans-serif;
     font-size: 18px;
-    margin: 5% 20% 5% 20%;
-    padding: 2% 5% 5% 5%;
-    width: 50%;
+    /* margin: 5% 20% 5% 20%;
+    padding: 2% 5% 5% 5%; */
+    width: 82%;
+    margin: 1% auto;
+    padding: 2% 8% 4% 8%;
     line-height: 150%;
     border: 1px solid LightGrey;
 }
